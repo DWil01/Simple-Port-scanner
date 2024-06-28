@@ -1,30 +1,22 @@
 # Simple Port Scanner
 
-A simple port scanner written in Python.
+A simple port scanner script written in Python. This script scans a range of ports on a target host to determine which ports are open.
 
-## Description
+## Features
 
-This script scans a specified target host for open ports in the range 1-1024. It's a basic example of how to use Python for network scanning.
-
-## Usage
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/simple-port-scanner.git
-    cd simple-port-scanner
-    ```
-
-2. Run the script:
-    ```sh
-    python port_scanner.py
-    ```
-
-3. Enter the target host when prompted.
+- Resolves the target hostname to an IP address.
+- Scans ports from 1 to 1024.
+- Reports open ports.
 
 ## Requirements
 
 - Python 3.x
+- `socket` module (part of the Python Standard Library)
 
-## License
+## Installation
 
-This project is licensed under the MIT License.
+1. **Clone the Repository**
+   
+   ```sh
+   git clone https://github.com/your-username/simple-port-scanner.git
+   cd simple-port-scanner
