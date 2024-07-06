@@ -1,7 +1,3 @@
-Sure! Here's a professional write-up you can add to your GitHub project:
-
----
-
 # Simple Port Scanner
 
 Welcome to the Simple Port Scanner project! This tool is designed to provide a straightforward and effective way to identify open ports on a given IP address or URL. Developed with both functionality and user experience in mind, this scanner combines the robustness of Scapy with the creativity and personality of the character "Cipher Phantom."
@@ -61,7 +57,3 @@ The Simple Port Scanner uses the Scapy library to send SYN packets to the specif
 This Simple Port Scanner is more than just a tool—it's an experience. By combining technical efficacy with creative flair, it aims to offer users an engaging and insightful look into network security. Potential employers will appreciate the balance of technical acumen and innovative presentation.
 
 Feel free to explore, use, and contribute to this project. Let's uncover the secrets that lie hidden in the shadows of the network!
-
----
-
-This write-up emphasizes both the technical capabilities and the creative aspects of your port scanner, making it appealing to potential employers who are looking for both technical skills and innovative thinking.
